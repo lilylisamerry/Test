@@ -1,2 +1,2 @@
 # Test
-This repository is created related to personal need.
+This repository is created for learning purpose.
